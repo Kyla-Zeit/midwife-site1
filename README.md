@@ -2,7 +2,7 @@
 
 This project is a complete React + Vite website redesign for the Canadian Association of Midwives, featuring a polished modern UI, responsive layouts, and a content structure built around public information, programs, news, jobs, and member access. The site is optimized for both desktop and mobile, with careful attention to visual hierarchy, smooth interactions, and a professional nonprofit-style presentation. The application is structured using reusable React components for maintainability and scalability.
 
-👉 **[View Live Site](https://kyla-zeit.github.io/cam1/)**
+👉 **[View Live Site](https://kyla-zeit.github.io/cam1/](https://kyla-zeit.github.io/canadian-midwives/)**
 
 ---
 
