@@ -50,3 +50,18 @@ src/
 ├── App.tsx
 ├── main.tsx
 └── styles.css
+
+---
+
+## 🛠️ Tech Stack
+- Angular (Standalone SPA)
+- TypeScript 
+- HTML5
+- CSS3 (component-scoped styles)
+- Angular Forms
+
+---
+
+## 🌐 Deployment
+Deployed using **GitHub Pages**.  
+Access it here → https://kyla-zeit.github.io/the-mitch-and-joe-show/
